@@ -73,6 +73,5 @@ public class CoffeeRegister {
         // I need to think more than 8 minutes for this question. Maybe checklists or attendance stuffs?
         // 5. what suprised you most about how Java handles numbers?
         // not really. Maybe because I learned this already before.
-
     }
 }
