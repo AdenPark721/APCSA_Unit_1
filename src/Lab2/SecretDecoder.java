@@ -62,7 +62,5 @@ public class SecretDecoder {
         // you might want the decimal points too. Might miss some close temperatures ( ex : 79.8)
         // 5. Research: what is "operator precedence
         // just like math, you do () these first, then * or /  or % then + or - .
-
-        // tesitdwasdwagedwa
     }
 }
