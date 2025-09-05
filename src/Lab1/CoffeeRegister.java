@@ -53,7 +53,7 @@ public class CoffeeRegister {
         double itemPrice =3.99;
         int quantity = 2;
         double subtotal = itemPrice * quantity;
-        int roundedPrice = subtotal;
+        int roundedPrice = (int) subtotal;
         //error happens because we are trying to save double (itemPrice) into int (roundedPrice).
         // to fix this error, we can to casting or simply change the type of roundedPrice to double.
         double roundedPrice2 = subtotal;
