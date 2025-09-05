@@ -59,7 +59,7 @@ public class SecretDecoder {
         // since the first one, it is not in math value (int / double) it is in String. However the second one is in int,
         // therefore it was able to do math.
         // 4. When converting Celsius to Fahrenheit, why is it dangerous to use all integers?
-        // you might wanted the decimal points too. Also might miss some close temperatures ( ex : 79.8)
+        // you might want the decimal points too. Might miss some close temperatures ( ex : 79.8)
         // 5. Research: what is "operator precedence
         // just like math, you do () these first, then * or /  or % then + or - .
     }
