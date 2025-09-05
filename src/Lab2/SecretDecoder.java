@@ -46,7 +46,7 @@ public class SecretDecoder {
         System.out.println("Score" + 1 + 2 * 3); // Score16
         System.out.println("Score" + (1 + 2 * 3)); // Score7
         System.out.println( 5 / 2 + 1.5); //3.5
-        System.out.println(5.0 / 2 + 1.5); // 4;
+        System.out.println(5.0 / 2 + 1.5); // 4.0;
 
 
         //reflection
