@@ -5,6 +5,10 @@ import java.util.Scanner;
 
 public class lesson1 {
     static void main(String[] args) {
+
+
+
+
     }
 
     public static boolean isValidUsername(String STU) {
